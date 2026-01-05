@@ -98,8 +98,6 @@ Inactive members have a much higher churn rate compared to active members.
 
 **Insight:** Customer engagement is one of the strongest predictors of churn. Increasing customer activity through loyalty programs, notifications, and personalized communication can improve retention.
 
----
-
 ## Key Insights Summary
 
 * Inactive customers are at the highest risk of churn
@@ -108,15 +106,12 @@ Inactive members have a much higher churn rate compared to active members.
 * Low credit score customers show higher churn probability
 * Engagement and product diversification reduce churn
 
----
 
 ## Conclusion
 
 This project demonstrates how exploratory data analysis using Python can uncover valuable insights into customer churn behavior. The analysis highlights the importance of customer engagement, product usage, and demographic factors in determining churn.
 
 By identifying high-risk customer segments, businesses can take proactive measures to improve retention, enhance customer satisfaction, and reduce revenue loss.
-
----
 
 ## Recommendations
 
@@ -126,8 +121,6 @@ By identifying high-risk customer segments, businesses can take proactive measur
 * Offer personalized financial products for low credit score customers
 * Continuously monitor churn metrics using dashboards
 
----
-
 ## Tools & Technologies Used
 
 * Python
@@ -135,8 +128,6 @@ By identifying high-risk customer segments, businesses can take proactive measur
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
-
----
 
 ## Final Note
 
