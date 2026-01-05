@@ -36,11 +36,15 @@ The business is experiencing customer churn, leading to revenue loss and reduced
 
 The churn distribution analysis shows that while the majority of customers are retained, a significant portion has exited the bank. This indicates a clear need for churn prevention strategies.
 
+![1](https://github.com/KumarBoste/Churn_Modelling_Analysis/blob/main/Python%20Analysis/Charts/1.png)
+
 **Insight:** Customer churn exists at a meaningful level and should be addressed proactively rather than reactively.
 
 ---
 ### 2. Gender Distribution
 The near-even gender split suggests churn or engagement strategies should target both genders, rather than focusing on a single dominant group, as both represent significant portions of the customer base.
+
+![2](https://github.com/KumarBoste/Churn_Modelling_Analysis/blob/main/Python%20Analysis/Charts/2.png)
 
 **Insight:** The customer base is slightly male-dominated, with males accounting for 54.57% and females 45.43%, indicating a relatively balanced gender distribution overall.
 
@@ -50,6 +54,8 @@ The near-even gender split suggests churn or engagement strategies should target
 
 Different churn patterns were observed across geographical regions. Certain countries show a noticeably higher churn rate compared to others.
 
+![3](https://github.com/KumarBoste/Churn_Modelling_Analysis/blob/main/Python%20Analysis/Charts/3.png)
+
 **Insight:** Geography plays an important role in customer behavior. Region-specific strategies and localized offers may help reduce churn.
 
 ---
@@ -57,6 +63,8 @@ Different churn patterns were observed across geographical regions. Certain coun
 ### 4. Age vs Churn
 
 The age-based analysis reveals that churned customers tend to be older compared to retained customers.
+
+![4](https://github.com/KumarBoste/Churn_Modelling_Analysis/blob/main/Python%20Analysis/Charts/4.png)
 
 **Insight:** Middle-aged and senior customers are more likely to churn, possibly due to changing financial needs or dissatisfaction with services.
 
@@ -66,6 +74,8 @@ The age-based analysis reveals that churned customers tend to be older compared 
 
 Customers with lower credit scores were found to churn more frequently than those with higher credit scores.
 
+![5](https://github.com/KumarBoste/Churn_Modelling_Analysis/blob/main/Python%20Analysis/Charts/5.png)
+
 **Insight:** Credit score is an important indicator of financial stability and trust. Customers with lower scores may require customized financial products or better support.
 
 ---
@@ -74,6 +84,8 @@ Customers with lower credit scores were found to churn more frequently than thos
 
 Customers owning only one product show the highest churn rate, while customers with multiple products are more loyal.
 
+![6](https://github.com/KumarBoste/Churn_Modelling_Analysis/blob/main/Python%20Analysis/Charts/6.png)
+
 **Insight:** Cross-selling and encouraging customers to adopt multiple products can significantly reduce churn.
 
 ---
@@ -81,6 +93,8 @@ Customers owning only one product show the highest churn rate, while customers w
 ### 7. Activity Status vs Churn
 
 Inactive members have a much higher churn rate compared to active members.
+
+![7](https://github.com/KumarBoste/Churn_Modelling_Analysis/blob/main/Python%20Analysis/Charts/7.png)
 
 **Insight:** Customer engagement is one of the strongest predictors of churn. Increasing customer activity through loyalty programs, notifications, and personalized communication can improve retention.
 
